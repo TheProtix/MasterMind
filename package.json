@@ -1,0 +1,23 @@
+{
+  "name": "mastermind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azad Seker",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "mongoose": "^6.5.2",
+    "path": "^0.12.7"
+  }
+}
